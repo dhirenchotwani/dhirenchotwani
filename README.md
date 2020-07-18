@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi, I'm [Dhiren Chotwani](http://www.knowdhirenchotwani.gq/)  👋
 
+
+<table>
+    <tr>
+        <td>Full Stack Developer</td>
+      <td>Tech Exuberant</td>
+      <td>Computer Technology Undergrad</td>
+    </tr>
+</table>
+
+											
 <!--
 **dhirenchotwani/dhirenchotwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

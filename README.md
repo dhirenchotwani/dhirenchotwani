@@ -3,7 +3,13 @@
 
 
 
-![Dhiren Chotwani](https://github.com/dhirenchotwani/dhirenchotwani/raw/master/bio.gif)
+<table>
+    <tr>
+        <td>Full Stack Developer  :scroll: </td>
+      <td>Tech Exuberant  :octocat: </td>
+      <td>Computer Technology Undergrad  :computer: </td>
+    </tr>
+</table>
 
 
 <p align="justify">An Aspiring Engineering Undergraduate and a Passionate Software Developer with experience in Web Development and Mobile Based Application Development . I'm a Full Stack Developer and a Tech Enthusiast with interests in upcoming technologies and Digital World. <p>

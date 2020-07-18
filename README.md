@@ -3,13 +3,19 @@
 
 <table>
     <tr>
-        <td>Full Stack Developer</td>
-      <td>Tech Exuberant</td>
-      <td>Computer Technology Undergrad</td>
+        <td>Full Stack Developer  :scroll: </td>
+      <td>Tech Exuberant  :octocat: </td>
+      <td>Computer Technology Undergrad  :computer: </td>
     </tr>
 </table>
 
-											
+<p align="justify">An Aspiring Engineering Undergraduate and a Passionate Software Developer with experience in Web Development and Mobile Based Application Development . I'm a Full Stack Developer and a Tech Enthusiast with interests in upcoming technologies and Digital World. <p>
+
+
+:e-mail: dhirenchotwani@gmail.com <br>
+:globe_with_meridians: [Online Portfolio](www.knowdhirenchotwani.tk) <br>
+:round_pushpin:  Mumbai , India <br>
+	
 <!--
 **dhirenchotwani/dhirenchotwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+   

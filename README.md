@@ -16,7 +16,7 @@
 
 
 :e-mail: dhirenchotwani@gmail.com <br>
-:globe_with_meridians: [Online Portfolio]((http://www.knowdhirenchotwani.gq/) <br>
+:globe_with_meridians: [Online Portfolio](http://www.knowdhirenchotwani.gq/) <br>
 :round_pushpin:  Mumbai , India <br>
 	
 <!--

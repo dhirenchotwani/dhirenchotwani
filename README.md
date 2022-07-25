@@ -1,4 +1,4 @@
-### Hi, I'm [Dhiren Chotwani](http://www.knowdhirenchotwani.gq/)  👋
+### Hi, I'm [Dhiren Chotwani](https://dhirenchotwani.github.io/)  👋
 
 
 
@@ -16,7 +16,7 @@
 
 
 :e-mail: dhirenchotwani@gmail.com <br>
-:globe_with_meridians: [Online Portfolio](http://www.knowdhirenchotwani.gq/) <br>
+:globe_with_meridians: [Online Portfolio](https://dhirenchotwani.github.io/) <br>
 :round_pushpin:  Mumbai , India <br>
 	
 <!--

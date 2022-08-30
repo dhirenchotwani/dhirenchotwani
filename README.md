@@ -12,7 +12,7 @@
 </table>
 
 
-<p align="justify">An Aspiring Engineering Undergraduate and a Passionate Software Developer with experience in Web Development and Mobile Based Application Development . I'm a Full Stack Developer and a Tech Enthusiast with interests in upcoming technologies and Digital World. <p>
+<p align="justify">A Technical Enthusiast with an Analytical Mindset and Outstanding Communication Skills. I always strive to keep my skills updated with cutting edge technologies with an aim to constantly enhance my technical acumen that enable me to work on challenging projects to deliver quality results. <p>
 
 
 :e-mail: dhirenchotwani@gmail.com <br>

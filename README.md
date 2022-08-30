@@ -17,7 +17,7 @@
 
 :e-mail: dhirenchotwani@gmail.com <br>
 :globe_with_meridians: [Online Portfolio](https://dhirenchotwani.github.io/) <br>
-:round_pushpin:  Santa Clara , California <br>
+:round_pushpin:      Santa Clara , California <br>
 	
 <!--
 **dhirenchotwani/dhirenchotwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

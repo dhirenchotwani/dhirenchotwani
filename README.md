@@ -7,7 +7,7 @@
     <tr>
         <td>Full Stack Developer  :scroll: </td>
       <td>Tech Exuberant  :octocat: </td>
-      <td>Computer Technology Undergrad  :computer: </td>
+      <td>Computer Technology Graduate  :computer: </td>
     </tr>
 </table>
 
@@ -17,7 +17,7 @@
 
 :e-mail: dhirenchotwani@gmail.com <br>
 :globe_with_meridians: [Online Portfolio](https://dhirenchotwani.github.io/) <br>
-:round_pushpin:  Mumbai , India <br>
+:round_pushpin:  Santa Clara , California <br>
 	
 <!--
 **dhirenchotwani/dhirenchotwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
